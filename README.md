@@ -1,6 +1,6 @@
 # ZPrize MSM on GPU Mike and Alex submission
 
-We can consider implemented Pippenger algo as a five-step algo:
+We can consider implemented Pippenger algo as a five-step algo:  
 0. Pre-computation
 1. Distribution of points and scalars into buckets
 2. Compute partial sums into each buckets
